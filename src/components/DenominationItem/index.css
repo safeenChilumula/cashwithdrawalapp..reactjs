@@ -1,0 +1,18 @@
+.list-container {
+  min-width: 48%;
+}
+
+.button {
+  color: #d4d2db;
+  font-size: 20px;
+  font-family: 'roboto';
+  font-weight: 500;
+  background-color: #382f5a;
+  width: 100%;
+  margin-top: 16px;
+  padding: 5px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #d4d2db;
+  cursor: pointer;
+}
